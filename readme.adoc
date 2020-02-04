@@ -1,0 +1,87 @@
+= Steve Jobs By Walter Isaacson
+
+[options="header",cols="<12%,^15%,<20%,<53%"]
+|====    
+| Revision | Date       | Author                                        | Description
+| 1.0      | 2020-02-02 | mailto:lihongshu1634@hotmail.com[lihongshu]   | First draft
+|====
+
+
+image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
+
+
+== contents
+
+[options="header",cols="20%,^10%,<50%,<30%,<10%,<30%,<40%"]
+|====    
+| File
+| Tittle
+| Album   
+| Artist        
+| Year      
+| Genre 
+| Comment
+
+| link:Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned/Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned.mp3[Chap07_CHRISANN_AND_LISA]
+| HeWhoIsAbandoned
+| The Story of My Experiments with Truth
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| CHRISANN AND LISA
+
+
+| link:Chap08_XEROX_AND_LISA_GraphicalUserInterfaces/Chap08_P01_ANewBaby.mp3[Chap08_P01_ANewBaby]
+| p01/chapter8
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| XEROX AND LISA
+
+
+| link:Chap08_XEROX_AND_LISA_GraphicalUserInterfaces/Chap08_P02_XeroxPARC.mp3[Chap08_P02_XeroxPARC]
+| p02/chapter8
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| XEROX AND LISA
+
+
+| link:Chap08_XEROX_AND_LISA_GraphicalUserInterfaces/Chap08_P03_GreatArtistsSteal.mp3[Chap08_P03_GreatArtistsSteal]
+| p03/chapter8
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| XEROX AND LISA
+
+
+|====
+
+
+=== CHAPTER 06 THE APPLE II
+
+* An Integrated Package
+
+audio::Chap06_THEAPPLEII-DawnofaNewAge/Chap06_P01_AnIntegratedPackage.mp3[Chap06_P01_AnIntegratedPackage]
+
+* Mike Markkula
+
+audio::Chap06_THEAPPLEII-DawnofaNewAge/Chap06_P02_MikeMarkkula.mp3[Chap06_P02_MikeMarkkula]
+
+
+=== CHAPTER 07 CHRISANN AND LISA
+
+* He Who Is Abandoned . . .
+
+audio::Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned/Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned.mp3[Chap07_CHRISANN_AND_LISA]
+
+
+== pdf version
+
+
+link:SteveJobs_by_Walter_Isaacson_En.pdf[SteveJobs_by_Walter_Isaacson_En]
+
+
