@@ -58,6 +58,107 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 | XEROX AND LISA
 
 
+| link:Chap09_GOING_PUBLIC_AManofWealthandFame/Chap09_P01_Options.mp3[Chap09_P01_Options]
+| p01/chapter9
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| GOING PUBLIC
+
+| link:Chap09_GOING_PUBLIC_AManofWealthandFame/Chap09_P02_BabyYou’reaRichMan.mp3[Chap09_P01_Options]
+| p01/chapter9
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| GOING PUBLIC
+
+
+| link:Chap10_THE_MAC_IS_BORN_YouSayYouWantaRevolution/Chap10_P01_JefRaskin’sBaby.mp3[Chap10_P01_JefRaskin’sBaby]
+| p01/chapter10
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE MAC IS BORN
+
+
+| link:Chap10_THE_MAC_IS_BORN_YouSayYouWantaRevolution/Chap10_P02_TexacoTowers.mp3[Chap10_P02_TexacoTowers]
+| p02/chapter10
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE MAC IS BORN
+
+
+| link:Chap11_THE_REALITY_DISTORTION_FIELD_PlayingbyHisOwnSetofRules/Chap11_PlayingbyHisOwnSetofRules.mp3[Chap11_PlayingbyHisOwnSetofRules]
+| chapter11
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE REALITY DISTORTION FIELD
+
+
+| link:Chap12_THE_DESIGN_RealArtistsSimplify/Chap12_P01_ABauhausAesthetic.mp3[Chap12_P01_ABauhausAesthetic]
+| p01/chapter12
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DESIGN
+
+
+| link:Chap12_THE_DESIGN_RealArtistsSimplify/Chap12_P02_LikeaPorsche.mp3[Chap12_P02_LikeaPorsche]
+| p02/chapter12
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DESIGN
+
+
+| link:Chap13_BUILDING_THE_MAC/Chap13_P01_Competition.mp3[Chap13_P01_Competition]
+| p01/chapter13
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| BUILDING THE MAC
+
+
+| link:Chap13_BUILDING_THE_MAC/Chap13_P02_EndtoendControl.mp3[Chap13_P02_EndtoendControl]
+| p02/chapter13
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| BUILDING THE MAC
+
+
+| link:Chap13_BUILDING_THE_MAC/Chap13_P03_MachinesoftheYear.mp3[Chap13_P03_MachinesoftheYear]
+| p03/chapter13
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| BUILDING THE MAC-Machines of the Year
+
+
+| link:Chap13_BUILDING_THE_MAC/Chap13_P04_Let’sBePirates.mp3[Chap13_P04_Let’sBePirates]
+| p04/chapter13
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| BUILDING THE MAC-Let’s Be Pirates
+
+
+
+
+
 |====
 
 
@@ -77,6 +178,9 @@ audio::Chap06_THEAPPLEII-DawnofaNewAge/Chap06_P02_MikeMarkkula.mp3[Chap06_P02_Mi
 * He Who Is Abandoned . . .
 
 audio::Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned/Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned.mp3[Chap07_CHRISANN_AND_LISA]
+
+=== CHAPTER 09 GOING PUBLIC
+
 
 
 == pdf version
