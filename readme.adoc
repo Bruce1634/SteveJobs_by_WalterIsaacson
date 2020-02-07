@@ -12,7 +12,7 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 
 == contents
 
-[options="header",cols="20%,^10%,<50%,<30%,<10%,<30%,<40%"]
+[options="header",cols="10%,^10%,<20%,<30%,<5%,<10%,<40%"]
 |====    
 | File
 | Tittle
@@ -156,7 +156,76 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 | BUILDING THE MAC-Let’s Be Pirates
 
 
+| link:Chap14_ENTER_SCULLEY_ThePepsiChallenge/Chap14_P01_TheCourtship.mp3[Chap14_P01_TheCourtship]
+| p01/chapter14
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ENTER SCULLEY-The Courtship
 
+
+| link:Chap14_ENTER_SCULLEY_ThePepsiChallenge/Chap14_P02_TheHoneymoon.mp3[Chap14_P02_TheHoneymoon]
+| p02/chapter14
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ENTER SCULLEY-The Honeymoon
+
+
+| link:Chap15_THE_LAUNCH_ADentintheUniverse/Chap15_P01_RealArtistsShip.mp3[Chap15_P01_RealArtistsShip]
+| p01/chapter15
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE LAUNCH-Real Artists Ship
+
+
+| link:Chap15_THE_LAUNCH_ADentintheUniverse/Chap15_P02_The1984Ad.mp3[Chap15_P02_The1984Ad]
+| p02/chapter15
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE LAUNCH-The “1984” Ad
+
+
+| link:Chap15_THE_LAUNCH_ADentintheUniverse/Chap15_P03_PublicityBlast.mp3[Chap15_P03_PublicityBlast]
+| p03/chapter15
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE LAUNCH-Publicity Blast
+
+
+| link:Chap15_THE_LAUNCH_ADentintheUniverse/Chap15_P04_January241984.mp3[Chap15_P04_January241984]
+| p04/chapter15
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE LAUNCH-January 24, 1984
+
+
+| link:Chap16_GATES_AND_JOBS_WhenOrbitsIntersect/Chap16_P01_TheMacintoshPartnership.mp3[Chap16_P01_TheMacintoshPartnership]
+| p01/chapter16
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| GATES AND JOBS-The Macintosh Partnership
+
+
+| link:Chap16_GATES_AND_JOBS_WhenOrbitsIntersect/Chap16_P02_TheBattleoftheGUI.mp3[Chap16_P02_TheBattleoftheGUI]
+| p02/chapter16
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| GATES AND JOBS-The Battle of the GUI
 
 
 |====
