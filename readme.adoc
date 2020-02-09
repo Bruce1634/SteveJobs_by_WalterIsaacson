@@ -228,6 +228,79 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 | GATES AND JOBS-The Battle of the GUI
 
 
+| link:Chap17_ICARUS_WhatGoesUp/Chap17_P01_FlyingHigh.mp3[Chap17_P01_FlyingHigh]
+| p01/chapter17
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ICARUS-Flying High
+
+
+| link:Chap17_ICARUS_WhatGoesUp/Chap17_P02_Falling.mp3[Chap17_P02_Falling]
+| p02/chapter17
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ICARUS-Falling
+
+
+| link:Chap17_ICARUS_WhatGoesUp/Chap17_P03_ThirtyYearsOld.mp3[Chap17_P03_ThirtyYearsOld]
+| p03/chapter17
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ICARUS-Thirty Years Old
+
+
+| link:Chap17_ICARUS_WhatGoesUp/Chap17_P04_Exodus.mp3[Chap17_P04_Exodus]
+| p04/chapter17
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ICARUS-Exodus
+
+
+| link:Chap17_ICARUS_WhatGoesUp/Chap17_P05_ShowdownSpring1985.mp3[Chap17_P05_ShowdownSpring1985]
+| p05/chapter17
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ICARUS-Showdown, Spring 1985
+
+
+| link:Chap17_ICARUS_WhatGoesUp/Chap17_P06_PlottingaCoup.mp3[Chap17_P06_PlottingaCoup]
+| p06/chapter17
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ICARUS-Plotting a Coup
+
+
+| link:Chap17_ICARUS_WhatGoesUp/Chap17_P07_SevenDaysinMay.mp3[Chap17_P07_SevenDaysinMay]
+| p07/chapter17
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ICARUS-Seven Days in May
+
+
+| link:Chap17_ICARUS_WhatGoesUp/Chap17_P08_LikeaRollingStone.mp3[Chap17_P08_LikeaRollingStone]
+| p08/chapter17
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ICARUS-Like a Rolling Stone
+
+
+
 |====
 
 
