@@ -300,6 +300,71 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 | ICARUS-Like a Rolling Stone
 
 
+| link:Chap18_NeXT_PrometheusUnbound/Chap18_P01_ThePiratesAbandonShip.mp3[Chap18_P01_ThePiratesAbandonShip]
+| p01/chapter18
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NeXT-The Pirates Abandon Ship
+
+
+| link:Chap18_NeXT_PrometheusUnbound/Chap18_P02_ToBeonYourOwn.mp3[Chap18_P02_ToBeonYourOwn]
+| p02/chapter18
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NeXT-To Be on Your Own
+
+
+| link:Chap18_NeXT_PrometheusUnbound/Chap18_P03_TheComputer.mp3[Chap18_P03_TheComputer]
+| p03/chapter18
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NeXT-The Computer
+
+
+| link:Chap18_NeXT_PrometheusUnbound/Chap18_P04_PerottotheRescue.mp3[Chap18_P04_PerottotheRescue]
+| p04/chapter18
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NeXT-Perot to the Rescue
+
+
+| link:Chap18_NeXT_PrometheusUnbound/Chap18_P05_GatesandNeXT.mp3[Chap18_P05_GatesandNeXT]
+| p05/chapter18
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NeXT-Gates and NeXT
+
+
+| link:Chap18_NeXT_PrometheusUnbound/Chap18_P06_IBM.mp3[Chap18_P06_IBM]
+| p06/chapter18
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NeXT-IBM
+
+| link:Chap18_NeXT_PrometheusUnbound/Chap18_P07_TheLaunchOctober1988.mp3[Chap18_P07_TheLaunchOctober1988]
+| p07/chapter18
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NeXT-The Launch, October 1988
+
+
+
+
+
 
 |====
 
