@@ -362,7 +362,121 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 | NeXT-The Launch, October 1988
 
 
+| link:Chap19_PIXAR_TechnologyMeetsArt/Chap19_P01_Lucasfilm’sComputerDivision.mp3[Chap19_P01_Lucasfilm’sComputerDivision]
+| p01/chapter19
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| PIXAR-Lucasfilm’s Computer Division
 
+
+| link:Chap19_PIXAR_TechnologyMeetsArt/Chap19_P02_Animation.mp3[Chap19_P02_Animation]
+| p02/chapter19
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| PIXAR-Animation
+
+
+| link:Chap19_PIXAR_TechnologyMeetsArt/Chap19_P03_TinToy.mp3[Chap19_P03_TinToy]
+| p03/chapter19
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| PIXAR-Tin Toy
+
+
+| link:Chap20_A_REGULA_RGUY_LoveIsJustaFourLetterWord/Chap20_P01_JoanBaez.mp3[Chap20_P01_JoanBaez]
+| p01/chapter20
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| A REGULAR GUY-Joan Baez
+
+
+| link:Chap20_A_REGULA_RGUY_LoveIsJustaFourLetterWord/Chap20_P02_FindingJoanneandMona.mp3[Chap20_P02_FindingJoanneandMona]
+| p02/chapter20
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| A REGULAR GUY-Finding Joanne and Mona
+
+
+| link:Chap20_A_REGULA_RGUY_LoveIsJustaFourLetterWord/Chap20_P03_TheLostFather.mp3[Chap20_P03_TheLostFather]
+| p03/chapter20
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| A REGULAR GUY-The Lost Father
+
+
+| link:Chap20_A_REGULA_RGUY_LoveIsJustaFourLetterWord/Chap20_P04_Lisa.mp3[Chap20_P04_Lisa]
+| p04/chapter20
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| A REGULAR GUY-Lisa
+
+
+| link:Chap20_A_REGULA_RGUY_LoveIsJustaFourLetterWord/Chap20_P05_TheRomantic.mp3[Chap20_P05_TheRomantic]
+| p05/chapter20
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| A REGULAR GUY-The Romantic
+
+
+| link:Chap21_FAMILYMAN_AtHomewiththeJobsClan/Chap21_P01_LaurenePowell.mp3[Chap21_P01_LaurenePowell]
+| p01/chapter21
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| FAMILY MAN-Laurene Powell
+
+
+| link:Chap21_FAMILYMAN_AtHomewiththeJobsClan/Chap21_P02_TheWedding_March_18_1991.mp3[Chap21_P02_TheWedding_March_18_1991]
+| p02/chapter21
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| FAMILY MAN-The Wedding, March 18, 1991
+
+
+| link:Chap21_FAMILYMAN_AtHomewiththeJobsClan/Chap21_P03_AFamilyHome.mp3[Chap21_P03_AFamilyHome]
+| p03/chapter21
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| FAMILY MAN-A Family Home
+
+
+| link:Chap21_FAMILYMAN_AtHomewiththeJobsClan/Chap21_P04_LisaMovesIn.mp3[Chap21_P04_LisaMovesIn]
+| p04/chapter21
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| FAMILY MAN-Lisa Moves In
+
+
+| link:Chap21_FAMILYMAN_AtHomewiththeJobsClan/Chap21_P05_Children.mp3[Chap21_P05_Children]
+| p05/chapter21
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| FAMILY MAN-Children
 
 
 
