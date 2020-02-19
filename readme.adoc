@@ -479,6 +479,63 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 | FAMILY MAN-Children
 
 
+| link:Chap22_TOY_STORY_BuzzandWoodytotheRescue/Chap22_P01_JeffreyKatzenberg.mp3[Chap22_P01_JeffreyKatzenberg]
+| p01/chapter22
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TOY STORY-Jeffrey Katzenberg
+
+
+| link:Chap22_TOY_STORY_BuzzandWoodytotheRescue/Chap22_P02_Cut.mp3[Chap22_P02_Cut]
+| p02/chapter22
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TOY STORY-Cut
+
+
+| link:Chap22_TOY_STORY_BuzzandWoodytotheRescue/Chap22_P03_ToInfinity.mp3[Chap22_P03_ToInfinity]
+| p03/chapter22
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TOY STORY-To Infinity
+
+
+| link:Chap23_THE_SECOND_COMING_WhatRoughBeastItsHourComeRoundatLast/Chap23_P01_ThingsFallApart.mp3[Chap23_P01_ThingsFallApart]
+| p01/chapter23
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE SECOND COMING-Things Fall Apart
+
+
+
+| link:Chap23_THE_SECOND_COMING_WhatRoughBeastItsHourComeRoundatLast/Chap23_P02_AppleFalling.mp3[Chap23_P02_AppleFalling]
+| p02/chapter23
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE SECOND COMING-Apple Falling
+
+
+| link:Chap23_THE_SECOND_COMING_WhatRoughBeastItsHourComeRoundatLast/Chap23_P03_SlouchingtowardCupertino.mp3[Chap23_P03_SlouchingtowardCupertino]
+| p03/chapter23
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE SECOND COMING-Slouching toward Cupertino
+
+
+
+
 
 |====
 
