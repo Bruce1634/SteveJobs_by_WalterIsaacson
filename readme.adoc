@@ -534,6 +534,42 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 | THE SECOND COMING-Slouching toward Cupertino
 
 
+| link:Chap24_THE_RESTORATION_TheLoserNowWillBeLatertoWin/Chap24_P01_HoveringBackstage.mp3[Chap24_P01_HoveringBackstage]
+| p01/chapter24
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE RESTORATION-Hovering Backstage
+
+| link:Chap24_THE_RESTORATION_TheLoserNowWillBeLatertoWin/Chap24_P02_ExitPursuedbyaBear.mp3[Chap24_P02_ExitPursuedbyaBear]
+| p02/chapter24
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE RESTORATION-Exit, Pursued by a Bear
+
+
+| link:Chap24_THE_RESTORATION_TheLoserNowWillBeLatertoWin/Chap24_P03_MacworldBostonAugust1997.mp3[Chap24_P03_MacworldBostonAugust1997]
+| p03/chapter24
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE RESTORATION-Macworld Boston, August 1997
+
+
+| link:Chap24_THE_RESTORATION_TheLoserNowWillBeLatertoWin/Chap24_P04_TheMicrosoftPact.mp3[Chap24_P04_TheMicrosoftPact]
+| p04/chapter24
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE RESTORATION-The Microsoft Pact
+
+
+
 
 
 
