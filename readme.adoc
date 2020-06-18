@@ -10,7 +10,7 @@
 image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 
 = Introduction
- This is aim to share an audiobook version of Autobiography writen by Walter Isaacson about Steve Jobs.An english pdf version is also provided in addition to a chinese translation one.
+This is aim to share an audiobook version of Autobiography writen by Walter Isaacson about Steve Jobs.An english pdf version is also provided in addition to a chinese translation one.
 
 == contents
 
@@ -800,7 +800,6 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 
 |====
 
-
 === CHAPTER 06 THE APPLE II
 
 * An Integrated Package
@@ -824,7 +823,11 @@ audio::Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned/Chap07_CHRISANN_AND_LISA_HeWhoI
 
 == pdf version
 
-
+link:SteveJobs_by_Walter_Isaacson_Ch.pdf[SteveJobs_by_Walter_Isaacson_Ch]
 link:SteveJobs_by_Walter_Isaacson_En.pdf[SteveJobs_by_Walter_Isaacson_En]
+
+
+
+
 
 
