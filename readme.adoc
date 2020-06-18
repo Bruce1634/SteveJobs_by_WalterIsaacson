@@ -569,6 +569,229 @@ image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 | THE RESTORATION-The Microsoft Pact
 
 
+| link:Chap25_THINKDIFFERENT_JobsasiCEO/Chap25_P01_Here’stotheCrazyOnes.mp3[Chap25_P01_Here’stotheCrazyOnes]
+| p01/chapter25
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Jobs as iCEO-Here’s to the Crazy Ones
+
+
+| link:Chap25_THINKDIFFERENT_JobsasiCEO/Chap25_P02_iCEO.mp3[Chap25_P02_iCEO]
+| p02/chapter25
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Jobs as iCEO-iCEO
+
+
+| link:Chap25_THINKDIFFERENT_JobsasiCEO/Chap25_P03_KillingtheClones.mp3[Chap25_P03_KillingtheClones]
+| p03/chapter25
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Jobs as iCEO-Killing the Clones
+
+
+| link:Chap25_THINKDIFFERENT_JobsasiCEO/Chap25_P04_ProductLineReview.mp3[Chap25_P04_ProductLineReview]
+| p04/chapter25
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Jobs as iCEO-Product Line Review
+
+
+| link:Chap26_DESIGN_PRINCIPLES_TheStudioofJobsandIve/Chap26_P01_JonyIve.mp3[Chap26_P01_JonyIve]
+| p01/chapter26
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| DESIGN PRINCIPLES-Jony Ive
+
+
+| link:Chap26_DESIGN_PRINCIPLES_TheStudioofJobsandIve/Chap26_P02_InsidetheStudio.mp3[Chap26_P02_InsidetheStudio]
+| p02/chapter26
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| DESIGN PRINCIPLES-Inside the Studio
+
+
+| link:Chap27_THE_iMAC_HelloAgain/Chap27_P01_BacktotheFuture.mp3[Chap27_P01_BacktotheFuture]
+| p01/chapter27
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE iMAC-Back to the Future
+
+
+| link:Chap27_THE_iMAC_HelloAgain/Chap27_P02_TheLaunchMay61998.mp3[Chap27_P02_TheLaunchMay61998]
+| p02/chapter27
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE iMAC-The Launch, May 6, 1998
+
+
+| link:Chap28_CEO_StillCrazyafterAllTheseYears/Chap28_P01_TimCook.mp3[Chap28_P01_TimCook]
+| p01/chapter28
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| CEO-Tim Cook
+
+
+| link:Chap28_CEO_StillCrazyafterAllTheseYears/Chap28_P02_MockTurtlenecksandTeamwork.mp3[Chap28_P02_MockTurtlenecksandTeamwork]
+| p02/chapter28
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| CEO-Mock Turtlenecks and Teamwork
+
+
+| link:Chap28_CEO_StillCrazyafterAllTheseYears/Chap28_P03_FromiCEOtoCEO.mp3[Chap28_P03_FromiCEOtoCEO]
+| p03/chapter28
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| CEO-From iCEO to CEO
+
+
+| link:Chap29_APPLE_STORES_GeniusBarsandSienaSandstone/Chap29_P01_TheCustomerExperience.mp3[Chap29_P01_TheCustomerExperience]
+| p01/chapter29
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| APPLE STORES-The Customer Experience
+
+
+| link:Chap29_APPLE_STORES_GeniusBarsandSienaSandstone/Chap29_P02_ThePrototype.mp3[Chap29_P02_ThePrototype]
+| p02/chapter29
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| APPLE STORES-The Prototype
+
+
+| link:Chap29_APPLE_STORES_GeniusBarsandSienaSandstone/Chap29_P03_WoodStoneSteelGlass.mp3[Chap29_P03_WoodStoneSteelGlass]
+| p03/chapter29
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| APPLE STORES-Wood, Stone, Steel, Glass
+
+
+| link:Chap30_THE_DIGITAL_HUB_FromiTunestotheiPod/Chap30_P01_ConnectingtheDots.mp3[Chap30_P01_ConnectingtheDots]
+| p01/chapter30
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DIGITAL HUB-Connecting the Dots
+
+
+| link:Chap30_THE_DIGITAL_HUB_FromiTunestotheiPod/Chap30_P02_FireWire.mp3[Chap30_P02_FireWire]
+| p02/chapter30
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DIGITAL HUB-FireWire
+
+
+
+| link:Chap30_THE_DIGITAL_HUB_FromiTunestotheiPod/Chap30_P03_iTunes.mp3[Chap30_P03_iTunes]
+| p03/chapter30
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DIGITAL HUB-iTunes
+
+
+| link:Chap30_THE_DIGITAL_HUB_FromiTunestotheiPod/Chap30_P04_TheiPod.mp3[Chap30_P04_TheiPod]
+| p04/chapter30
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DIGITAL HUB-The iPod
+
+
+| link:Chap30_THE_DIGITAL_HUB_FromiTunestotheiPod/Chap30_P05_That’sIt.mp3[Chap30_P05_That’sIt]
+| p05/chapter30
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DIGITAL HUB-That’s It
+
+
+| link:Chap30_THE_DIGITAL_HUB_FromiTunestotheiPod/Chap30_P06_TheWhitenessoftheWhale.mp3[Chap30_P06_TheWhitenessoftheWhale]
+| p06/chapter30
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DIGITAL HUB-The Whiteness of the Whale
+
+
+| link:Chap31_THE_iTUNES_STORE_I’mthePiedPiper/Chap31_P01_WarnerMusic.mp3[Chap31_P01_WarnerMusic]
+| p01/chapter31
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE iTUNES STORE-Warner Music
+
+
+| link:Chap31_THE_iTUNES_STORE_I’mthePiedPiper/Chap31_P02_HerdingCats.mp3[Chap31_P02_HerdingCats]
+| p02/chapter31
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE iTUNES STORE-Herding Cats
+
+
+
+| link:Chap31_THE_iTUNES_STORE_I’mthePiedPiper/Chap31_P03_Microsoft.mp3[Chap31_P03_Microsoft]
+| p03/chapter31
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE iTUNES STORE-Microsoft
+
+
+| link:Chap31_THE_iTUNES_STORE_I’mthePiedPiper/Chap31_P04_MrTambourineMan.mp3[Chap31_P04_MrTambourineMan]
+| p04/chapter31
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE iTUNES STORE-Mr. Tambourine Man
+
+
+
+
+
+
+
 
 
 
