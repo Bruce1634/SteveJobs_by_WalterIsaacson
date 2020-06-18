@@ -9,6 +9,8 @@
 
 image::inserts/pictures/jobs-1.jpg[align="center", scaledwidth="100%"]
 
+= Introduction
+ This is aim to share an audiobook version of Autobiography writen by Walter Isaacson about Steve Jobs.An english pdf version is also provided in addition to a chinese translation one.
 
 == contents
 
