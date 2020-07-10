@@ -752,7 +752,7 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 | THE DIGITAL HUB-The Whiteness of the Whale
 
 
-| link:Chap31_THE_iTUNES_STORE_I’mthePiedPiper/Chap31_P01_WarnerMusic.mp3[Chap31_P01_WarnerMusic]
+| link:Chap31_THE_iTUNES_STORE/Chap31_P01_WarnerMusic.mp3[Chap31_P01_WarnerMusic]
 | p01/chapter31
 | Steve Jobs By Walter Isaacson
 | Walter Isaacson      
@@ -761,7 +761,7 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 | THE iTUNES STORE-Warner Music
 
 
-| link:Chap31_THE_iTUNES_STORE_I’mthePiedPiper/Chap31_P02_HerdingCats.mp3[Chap31_P02_HerdingCats]
+| link:Chap31_THE_iTUNES_STORE/Chap31_P02_HerdingCats.mp3[Chap31_P02_HerdingCats]
 | p02/chapter31
 | Steve Jobs By Walter Isaacson
 | Walter Isaacson      
@@ -771,7 +771,7 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 
 
 
-| link:Chap31_THE_iTUNES_STORE_I’mthePiedPiper/Chap31_P03_Microsoft.mp3[Chap31_P03_Microsoft]
+| link:Chap31_THE_iTUNES_STORE/Chap31_P03_Microsoft.mp3[Chap31_P03_Microsoft]
 | p03/chapter31
 | Steve Jobs By Walter Isaacson
 | Walter Isaacson      
@@ -780,13 +780,140 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 | THE iTUNES STORE-Microsoft
 
 
-| link:Chap31_THE_iTUNES_STORE_I’mthePiedPiper/Chap31_P04_MrTambourineMan.mp3[Chap31_P04_MrTambourineMan]
+| link:Chap31_THE_iTUNES_STORE/Chap31_P04_MrTambourineMan.mp3[Chap31_P04_MrTambourineMan]
 | p04/chapter31
 | Steve Jobs By Walter Isaacson
 | Walter Isaacson      
 | 2011 
 | Autobiography
 | THE iTUNES STORE-Mr. Tambourine Man
+
+
+| link:Chap32_MUSIC_MAN_TheSoundTrackofHisLife/Chap32_P01_OnHisiPod.mp3[Chap32_P01_OnHisiPod]
+| p01/chapter32
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| MUSIC MAN-On His iPod
+
+
+
+| link:Chap32_MUSIC_MAN_TheSoundTrackofHisLife/Chap32_P02_BobDylan.mp3[Chap32_P02_BobDylan]
+| p02/chapter32
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| MUSIC MAN-Bob Dylan
+
+
+| link:Chap32_MUSIC_MAN_TheSoundTrackofHisLife/Chap32_P03_The_Beatles.mp3[Chap32_P03_The_Beatles]
+| p03/chapter32
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| MUSIC MAN-The Beatles
+
+
+| link:Chap32_MUSIC_MAN_TheSoundTrackofHisLife/Chap32_P04_Bono_YoYoMa.mp3[Chap32_P04_Bono_YoYoMa]
+| p04/chapter32
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| MUSIC MAN-Bono_YoYoMa
+
+
+| link:Chap33_PIXARS_FRIENDS/Chap33_P01_ABugsLife.mp3[Chap33_P01_ABugsLife]
+| p01/chapter33
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| PIXAR’S FRIENDS-A Bug’s Life
+
+
+| link:Chap33_PIXARS_FRIENDS/Chap33_P02_StevesOwnMovie.mp3[Chap33_P02_StevesOwnMovie]
+| p02/chapter33
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| PIXAR’S FRIENDS-Steve’s Own Movie
+
+
+
+| link:Chap33_PIXARS_FRIENDS/Chap33_P03_TheDivorce.mp3[Chap33_P03_TheDivorce]
+| p03/chapter33
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| PIXAR’S FRIENDS-The Divorce
+
+
+| link:Chap34_TWENTY_FIRST_CENTURY_MACS/Chap34_P01_Clams_IceCubes_and_Sunflowers.mp3[Chap34_P01_Clams_IceCubes_and_Sunflowers]
+| p01/chapter34
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TWENTY-FIRST-CENTURY MACS-Clams, Ice Cubes, and Sunflowers
+
+
+
+| link:Chap34_TWENTY_FIRST_CENTURY_MACS/Chap34_P02_Intel_Inside.mp3[Chap34_P02_Intel_Inside]
+| p02/chapter34
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TWENTY-FIRST-CENTURY MACS-Intel Inside
+
+
+| link:Chap34_TWENTY_FIRST_CENTURY_MACS/Chap34_P03_Options.mp3[Chap34_P03_Options]
+| p03/chapter34
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TWENTY-FIRST-CENTURY MACS-Options
+
+
+| link:Chap35_ROUND ONE/Chap35_P01_Cancer.mp3[Chap35_P01_Cancer]
+| p01/chapter35
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ROUND ONE-Cancer
+
+
+| link:Chap35_ROUND_ONE/Chap35_P02_TheStanfordCommencement.mp3[Chap35_P02_TheStanfordCommencement]
+| p02/chapter35
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ROUND ONE-The Stanford Commencement
+
+
+| link:Chap35_ROUND_ONE/Chap35_P03_ALionatFifty.mp3[Chap35_P03_ALionatFifty]
+| p03/chapter35
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ROUND ONE-A Lion at Fifty
+
+
+
+
+
+
+
 
 
 
