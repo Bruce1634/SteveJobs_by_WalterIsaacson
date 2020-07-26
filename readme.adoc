@@ -909,6 +909,56 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 | ROUND ONE-A Lion at Fifty
 
 
+| link:Chap36_THE_iPHONE/Chap36_P01_AniPodThatMakesCalls.mp3[Chap36_P01_AniPodThatMakesCalls]
+| p01/chapter36
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Three Revolutionary Products in One-An iPod That Makes Calls
+
+
+
+| link:Chap36_THE_iPHONE/Chap36_P02_MultiTouch.mp3[Chap36_P02_MultiTouch]
+| p02/chapter36
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Three Revolutionary Products in One-Multi-touch
+
+
+
+| link:Chap36_THE_iPHONE/Chap36_P03_GorillaGlass.mp3[Chap36_P03_GorillaGlass]
+| p03/chapter36
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Three Revolutionary Products in One-Gorilla Glass
+
+
+
+| link:Chap36_THE_iPHONE/Chap36_P04_TheDesign.mp3[Chap36_P04_TheDesign]
+| p04/chapter36
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Three Revolutionary Products in One-The Design
+
+
+
+| link:Chap36_THE_iPHONE/Chap36_P05_TheLaunch.mp3[Chap36_P05_TheLaunch]
+| p05/chapter36
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| Three Revolutionary Products in One-The Launch
+
+
+
 
 
 
