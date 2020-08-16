@@ -1029,8 +1029,68 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 | Autobiography
 | THE iPAD-Publishing and Journalism
 
+
+| link:Chap39_NEW_BATTLES/Chap39_P01_GoogleOpenversusClosed.mp3[Chap39_P01_GoogleOpenversusClosed]
+| P01/chapter39
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NEW BATTLES-Google: Open versus Closed
+
+
+| link:Chap39_NEW_BATTLES/Chap39_P02_FlashtheAppStoreandControl.mp3[Chap39_P02_FlashtheAppStoreandControl]
+| P02/chapter39
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NEW BATTLES-Flash, the App Store, and Control
+
  
- 
+| link:Chap39_NEW_BATTLES/Chap39_P03_AntennagateDesignversusEngineering.mp3[Chap39_P03_AntennagateDesignversusEngineering]
+| P03/chapter39
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NEW BATTLES-Antennagate: Design versus Engineering
+
+
+| link:Chap39_NEW_BATTLES/Chap39_P04_HereComestheSun.mp3[Chap39_P04_HereComestheSun]
+| P04/chapter39
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| NEW BATTLES-Here Comes the Sun
+
+
+| link:Chap40_TO_INFINITY/Chap40_P01_TheiPad2.mp3[Chap40_P01_TheiPad2]
+| P01/chapter40
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TO INFINITY-The iPad 2
+
+
+| link:Chap40_TO_INFINITY/Chap40_P02_iCloud.mp3[Chap40_P02_iCloud]
+| P02/chapter40
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TO INFINITY-iCloud
+
+
+
+
+
+
+
+
+
 
 
 
