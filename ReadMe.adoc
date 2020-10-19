@@ -24,6 +24,57 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 | Genre 
 | Comment
 
+
+| link:Chap02_ODD_COUPLE/Chap02_P01_Woz.mp3[Chap02_P01_Woz]
+| P01/chapter02
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ODD COUPLE-Woz
+
+| link:Chap02_ODD_COUPLE/Chap02_P02_TheBlueBox.mp3[Chap02_P02_TheBlueBox]
+| P02/chapter02
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ODD COUPLE-The Blue Box
+
+
+| link:Chap03_THE_DROPOUT/Chap03_P01_ChrisannBrennan.mp3[Chap03_P01_ChrisannBrennan]
+| P01/chapter03
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DROPOUT-Chrisann Brennan
+
+
+| link:Chap03_THE_DROPOUT/Chap03_P02_ReedCollege.mp3[Chap03_P02_ReedCollege]
+| P02/chapter03
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DROPOUT-Reed College
+
+| link:Chap03_THE_DROPOUT/Chap03_P03_RobertFriedland.mp3[Chap03_P03_RobertFriedland]
+| P03/chapter03
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DROPOUT-Robert Friedland
+
+| link:Chap03_THE_DROPOUT/Chap03_P04_DropOut.mp3[Chap03_P04_DropOut]
+| P04/chapter03
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| THE DROPOUT-Drop Out
+
 | link:Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned/Chap07_CHRISANN_AND_LISA_HeWhoIsAbandoned.mp3[Chap07_CHRISANN_AND_LISA]
 | HeWhoIsAbandoned
 | The Story of My Experiments with Truth
@@ -31,7 +82,6 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 | 2011 
 | Autobiography
 | CHRISANN AND LISA
-
 
 | link:Chap08_XEROX_AND_LISA_GraphicalUserInterfaces/Chap08_P01_ANewBaby.mp3[Chap08_P01_ANewBaby]
 | p01/chapter8
@@ -1084,17 +1134,77 @@ This is aim to share an audiobook version of Autobiography writen by Walter Isaa
 | TO INFINITY-iCloud
 
 
+| link:Chap40_TO_INFINITY/Chap40_P03_ANewCampus.mp3[Chap40_P03_ANewCampus]
+| P03/chapter40
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| TO INFINITY-A New Campus
+
+
+| link:Chap41_ROUND_THREE/Chap41_P01_Family_Ties.mp3[Chap41_P01_Family_Ties]
+| P01/chapter41
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ROUND THREE-Family Ties
+
+
+| link:Chap41_ROUND_THREE/Chap41_P02_President_Obama.mp3[Chap41_P02_President_Obama]
+| P02/chapter41
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ROUND THREE-President Obama
 
 
 
+| link:Chap41_ROUND_THREE/Chap41_P03_ThirdMedicalLeave2011.mp3[Chap41_P03_ThirdMedicalLeave2011]
+| P03/chapter41
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ROUND THREE-Third Medical Leave, 2011
 
 
+| link:Chap41_ROUND_THREE/Chap41_P04_Visitors.mp3[Chap41_P04_Visitors]
+| P04/chapter41
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| ROUND THREE-Visitors
 
 
+| link:Chap42_LEGACY/Chap42_P01_FireWire.mp3[Chap42_P01_FireWire]
+| P01/chapter42
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| LEGACY-FireWire
 
 
+| link:Chap42_LEGACY/Chap42_P02_AndOneMoreThing.mp3[Chap42_P02_AndOneMoreThing]
+| P02/chapter42
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| LEGACY-And One More Thing
 
 
+| link:Chap42_LEGACY/Chap42_P03_Coda.mp3[Chap42_P03_Coda]
+| P03/chapter42
+| Steve Jobs By Walter Isaacson
+| Walter Isaacson      
+| 2011 
+| Autobiography
+| LEGACY-Coda
 
 |====
 
